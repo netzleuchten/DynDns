@@ -1,0 +1,9 @@
+#   Uncomment the following lines to secure this script via HTTP authentication
+#   Create your .htpasswd at
+#   http://www.htaccesstools.com/htpasswd-generator/
+#   or wherever you want
+
+#AuthType Basic
+#AuthName "DynDns"
+#AuthUserFile /path/to/.htpasswd
+#Require valid-user
