@@ -7,7 +7,7 @@ others who need some simple dynamic dns magic, but do not want to rely on extern
 The API class depends on `inwx/domrobot`. The endpoint itself uses `vlucas/phpdotenv`, `symfony/http-foundation`
 to add easy configuration and simple handling of requests and responses.
 
-So feel fork this project, extend it to your needs, just use the API class for a command-line tool etc.
+So feel free to fork this project, extend it to your needs, just use the API class for a command-line tool etc.
 
 ## Setup
 
